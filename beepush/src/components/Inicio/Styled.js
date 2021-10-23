@@ -7,7 +7,6 @@ export const DivContainer = styled.div`
     background-color: #0A0A0D;
     justify-content: center;
     align-items: center;
-
 `
 export const DivTextos = styled.div`
     display: flex;
@@ -26,7 +25,9 @@ export const DivH1 = styled.div`
         h1{
             font-size: 4em;
             font-weight: 800;
-        }
+            span{
+                color: #FFE600;
+            }}
 `
 
 export const DivH2 = styled.div`
@@ -44,7 +45,6 @@ export const DivButton = styled.div`
             width: 40%;
             height: 100%;
             border-radius: 10px;
-            border-color: yellow;
             background-color: #FFE600;
         :hover{ 
             opacity: 0.7;

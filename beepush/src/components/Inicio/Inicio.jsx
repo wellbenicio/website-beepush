@@ -15,7 +15,7 @@ const Inicio = () => {
         <DivContainer>
             <DivTextos>
                 <DivH1>
-                    <h1>Faça o que <br/>precisa ser feito <br/>agora!</h1>
+                    <h1>Faça o que <br/>precisa ser feito <br/><span>agora!</span></h1>
                 </DivH1>
                 <DivH2>
                     <h2>Somos uma agência especializada em Marketing Digital e existimos para ajudar você vender mais!</h2>
