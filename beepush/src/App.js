@@ -1,4 +1,4 @@
-import Home from './pages/Home'
+import Page from './pages/Page'
 import styled from 'styled-components'
 
 const DivContainer = styled.div `
@@ -8,7 +8,7 @@ const DivContainer = styled.div `
 function App() {
   return (
     <DivContainer>
-      <Home />
+      <Page />
     </DivContainer>
   );
 }
