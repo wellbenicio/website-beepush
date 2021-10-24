@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>🔗 website-beepush  :bee:</p>
+    <p>🔗 website-beepush :bee:</p>
 </h1>
 <p align="center"> :desktop_computer: Website em desenvolvimento para Agência de Marketing Digital Beepush.</p>
 
